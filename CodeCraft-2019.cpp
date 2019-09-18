@@ -1,13 +1,3 @@
-/**
- * @project: 2019华为软件精英挑战赛
- * @code: C++
- * @author: hanlei
- * @post: 791026701@qq.com
- * @date: 2019/03/15
- * @version: 1.0
- * 此版本修改内容:
- *   1.对原始car.txt的的planTime进行排序
- */
 
 #include "define.h"
 #include "data_processing.h"
